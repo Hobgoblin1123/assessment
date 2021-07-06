@@ -1,0 +1,22 @@
+body {
+    background-image: url('https://pbs.twimg.com/media/EwdeT-qVkAA8oPK.jpg');
+    color:black;
+    width:500px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+button {
+    padding: 5px 20px;
+    background-color: #337ab7;
+    color:#fdffff;
+    border-style: none;
+    
+}
+input {
+    height: 20px;
+}
+.explain {
+    font-size: larger;
+font-family: 'Sawarabi Mincho', sans-serif;
+}
