@@ -5,6 +5,7 @@ body {
     margin-right: auto;
     margin-left: auto;
     text-align: center;
+    font: size 108px; ;
 }
 button {
     padding: 5px 20px;
@@ -17,6 +18,6 @@ input {
     height: 20px;
 }
 .explain {
-    font-size: larger;
+    font-size: 108px;
 font-family: 'Sawarabi Mincho', sans-serif;
 }
