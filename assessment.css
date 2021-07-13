@@ -1,13 +1,13 @@
 body {
     background-image: url('https://pjsekai.sega.jp/assets/images/special/download/virtual-bg/virtual_bg_01_unit06.png');
-    background-size: cover;
+     overflow: scroll;
+    background-size: contain;
     color:black;
     width:auto;
     margin-right: auto;
     margin-left: auto;
     text-align: center;
     font-size: auto;
-    overflow: scroll;
 
     
 }
