@@ -1,0 +1,27 @@
+body {
+    background-image: url('https://pjsekai.sega.jp/assets/images/special/download/virtual-bg/virtual_bg_01_unit06.png');
+    background-attachment:scroll;
+    overflow: hidden;
+    background-size: 2880px 1800px;
+    color:black;
+    width:auto;
+    text-align: center;
+    font-size: auto;
+  
+
+    
+}
+button {
+    padding: 5px 20px;
+    background-color: #337ab7;
+    color:#fdffff;
+    border-style: none;
+    
+}
+input {
+    height: 20px;
+}
+.explain {
+    font-size: larger;
+font-family: 'Sawarabi Mincho', sans-serif;
+}
